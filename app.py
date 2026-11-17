@@ -1,3 +1,4 @@
+# KR2: Okhotnikov
 import os
 import socket
 
